@@ -37,7 +37,7 @@ body {
 
 
 .home-inner {
-  background-image: url(background3.jpg);
+  background-image: url(img/background3.jpg);
 }
 .caption {
   width: 100%;
@@ -118,7 +118,7 @@ h3.heading {
 
 
 .fixed {
-  background-image: url(background.jpg);
+  background-image: url(img/background.jpg);
   z-index: -1;
 }
 .dark {
