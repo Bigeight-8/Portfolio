@@ -86,6 +86,21 @@ body {
   border-color: #189582;
  }
 
+.col h1 {
+   padding: 5rem;
+ }
+ .col h3 {
+   padding-bottom: 1rem;
+   padding-left: 5rem;
+ }
+ .col p {
+   padding-left: 5rem;
+ }
+ .profile {
+   width: 100%;
+   border-radius: 50%;
+   padding: 5rem;
+ }
 
 .jumbotron {
   margin-bottom: 0;
